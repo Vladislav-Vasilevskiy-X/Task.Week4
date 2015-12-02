@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestClassesColection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TestClasses>
+    <TestClass>
+      <Number>12</Number>
+      <Name>Vasya</Name>
+      <Color>Blue</Color>
+    </TestClass>
+    <TestClass>
+      <Number>24</Number>
+      <Name>Vladimir</Name>
+      <Color>Green</Color>
+    </TestClass>
+  </TestClasses>
+</TestClassesColection>

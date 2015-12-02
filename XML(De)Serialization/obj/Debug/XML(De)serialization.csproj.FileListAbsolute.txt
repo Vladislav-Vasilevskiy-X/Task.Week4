@@ -1,0 +1,6 @@
+C:\Users\Uladzislau_Parkhutsich@epam.com\Documents\Visual Studio 2015\Projects\Task.Week4\XML(De)Serialization\bin\Debug\Task.Week4.exe.config
+C:\Users\Uladzislau_Parkhutsich@epam.com\Documents\Visual Studio 2015\Projects\Task.Week4\XML(De)Serialization\obj\Debug\Task.Week4.exe
+C:\Users\Uladzislau_Parkhutsich@epam.com\Documents\Visual Studio 2015\Projects\Task.Week4\XML(De)Serialization\obj\Debug\Task.Week4.pdb
+C:\Users\Uladzislau_Parkhutsich@epam.com\Documents\Visual Studio 2015\Projects\Task.Week4\XML(De)Serialization\bin\Debug\Task.Week4.exe
+C:\Users\Uladzislau_Parkhutsich@epam.com\Documents\Visual Studio 2015\Projects\Task.Week4\XML(De)Serialization\bin\Debug\Task.Week4.pdb
+C:\Users\Uladzislau_Parkhutsich@epam.com\Documents\Visual Studio 2015\Projects\Task.Week4\XML(De)Serialization\obj\Debug\XML(De)serialization.csprojResolveAssemblyReference.cache

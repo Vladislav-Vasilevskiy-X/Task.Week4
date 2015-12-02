@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task.Week4
+namespace JSON_De_Serialization
 {
-    class Program
+    class Runner
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

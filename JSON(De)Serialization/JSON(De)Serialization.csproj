@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{20627868-F5E2-4D6F-B8E4-F1E7F7CBD4AC}</ProjectGuid>
+    <ProjectGuid>{60BC664D-A587-437B-9488-1BD17A12A507}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Task.Week4</RootNamespace>
-    <AssemblyName>Task.Week4</AssemblyName>
+    <RootNamespace>JSON_De_Serialization</RootNamespace>
+    <AssemblyName>JSON%28De%29Serialization</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="House.cs" />
+    <Compile Include="JSONFileWorker.cs" />
+    <Compile Include="Room.cs" />
+    <Compile Include="Runner.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

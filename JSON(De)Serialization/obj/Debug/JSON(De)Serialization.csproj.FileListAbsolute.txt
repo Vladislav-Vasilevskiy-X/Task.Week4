@@ -1,0 +1,6 @@
+C:\Users\Uladzislau_Parkhutsich@epam.com\Documents\Visual Studio 2015\Projects\Task.Week4\JSON(De)Serialization\bin\Debug\JSON(De)Serialization.exe.config
+C:\Users\Uladzislau_Parkhutsich@epam.com\Documents\Visual Studio 2015\Projects\Task.Week4\JSON(De)Serialization\bin\Debug\JSON(De)Serialization.exe
+C:\Users\Uladzislau_Parkhutsich@epam.com\Documents\Visual Studio 2015\Projects\Task.Week4\JSON(De)Serialization\bin\Debug\JSON(De)Serialization.pdb
+C:\Users\Uladzislau_Parkhutsich@epam.com\Documents\Visual Studio 2015\Projects\Task.Week4\JSON(De)Serialization\obj\Debug\JSON(De)Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Uladzislau_Parkhutsich@epam.com\Documents\Visual Studio 2015\Projects\Task.Week4\JSON(De)Serialization\obj\Debug\JSON(De)Serialization.exe
+C:\Users\Uladzislau_Parkhutsich@epam.com\Documents\Visual Studio 2015\Projects\Task.Week4\JSON(De)Serialization\obj\Debug\JSON(De)Serialization.pdb
